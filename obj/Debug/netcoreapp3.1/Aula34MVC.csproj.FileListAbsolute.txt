@@ -1,0 +1,13 @@
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.exe
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.deps.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.runtimeconfig.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.runtimeconfig.dev.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.csprojAssemblyReference.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.csproj.CoreCompileInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.AssemblyInfoInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.AssemblyInfo.cs
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.genruntimeconfig.cache
